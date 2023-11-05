@@ -48,4 +48,6 @@ This is one way to run your app — you can also run it directly from within And
 
 ### For Starting Server
 
+```bash
 json-server --watch server/db.json
+```
